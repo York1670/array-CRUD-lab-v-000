@@ -7,14 +7,12 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  num = [1, 10, 100, 1000]
-  num << 10000
+  lost= ["array"]
+  lost << ("element")
 
 end
 
 def add_element_to_start_of_array(array, element)
-  grains = ["wheat", "oat", "rice", "quinoa"]
-  grains.unshift("corn")
 
 end
 
